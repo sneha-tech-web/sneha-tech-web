@@ -16,6 +16,6 @@ I'm currently learning
 ![](https://github-profile-trophy.vercel.app/?username=sneha-tech-web&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 👀 People view
-[![](https://komarev.com/ghpvc/?username=sneha-tech-web&label=Profile%20views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=sneha-tech-web&label=Profile%20views&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
