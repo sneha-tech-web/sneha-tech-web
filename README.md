@@ -8,11 +8,14 @@ I'm currently learning
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sneha-tech-web&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+## 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=sneha-tech-web&theme=vue-dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneha-tech-web\&theme=vue-dark\&hide_border=false\&include_all_commits=true\&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-tech-web&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sneha-tech-web\&theme=vue-dark\&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sneha-tech-web\&theme=vue-dark\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sneha-tech-web&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
